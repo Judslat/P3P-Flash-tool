@@ -1,6 +1,8 @@
 # P3P-Flash-tool
 A tool to help you flash the camera board on the Phantom 3 Pro
 
+YOU MUST INSTALL NET FRAME WORK 4.5 TO USE THIS TOOL
+
 Download the tool and extract it, it will extract the files to your user profile into a folder called P3Pflash 
 and will put a shortcut on the desktop
 
