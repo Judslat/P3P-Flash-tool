@@ -1,3 +1,7 @@
+New installer file uploaded as the 
+previous versions were getting 
+flagged as a virus
+
 # P3P-Flash-tool
 A tool to help you flash the camera board on the Phantom 3 Pro
 
