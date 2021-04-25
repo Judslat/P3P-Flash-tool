@@ -14,3 +14,5 @@ there are a few links to pictures, the instructions and a set up link for terate
 is needed to flash
 
 all the files are virus free but feel free to scan them.
+
+V2 image layout changed and a buymeacoffee link added.
